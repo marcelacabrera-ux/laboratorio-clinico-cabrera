@@ -1,0 +1,17 @@
+---
+title: "Microbiología"
+format: html
+editor: visual
+---
+
+Ensayos disponibles:
+
+::: {.service-grid}
+
+::: {.service-card}
+- Gram gota fresca
+
+:::
+
+:::
+[Volver a servicios](servicios.qmd){.btn-main}

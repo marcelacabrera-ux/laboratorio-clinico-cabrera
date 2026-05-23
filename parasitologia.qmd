@@ -1,0 +1,25 @@
+---
+title: "Parasitología y coprología"
+format: html
+editor: visual
+---
+
+Ensayos disponibles:
+
+::: {.service-grid}
+
+::: {.service-card}
+
+- Examen coproparasitario 
+- Sangre oculta en heces 
+- Azúcares reductores 
+- PMN fecales 
+- Test de Graham 
+- Helicobacter pylori 
+- Rotavirus 
+- Adenovirus
+
+:::
+
+:::
+[Volver a servicios](servicios.qmd){.btn-main}

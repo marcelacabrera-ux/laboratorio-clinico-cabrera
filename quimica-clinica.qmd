@@ -1,0 +1,59 @@
+---
+title: "Química clínica"
+format: html
+editor: visual
+---
+
+Ensayos disponibles:
+
+::: {.service-grid}
+
+::: {.service-card}
+### Metabolismo y función renal
+
+- Glucosa 
+- Glucosa postprandial 
+- Curva de glucosa 
+- Hemoglobina glicosilada 
+- Creatinina 
+- Urea 
+- Ácido úrico
+
+:::
+
+::: {.service-card}
+### Perfil lipídico
+
+- Perfil lipídico
+
+:::
+
+::: {.service-card}
+### Función hepática
+
+- TGO 
+- TGP 
+- Bilirrubinas 
+- Gamma GT 
+- Fosfatasa alcalina 
+- Proteínas totales 
+- Globulinas
+
+:::
+
+::: {.service-card}
+### Enzimas pancreáticas
+
+- Amilasa 
+- Lipasa Electrolitos y minerales 
+- Electrolitos 
+- Magnesio 
+- Fósforo 
+- Hierro 
+- Ferritina 
+- Transferina
+
+:::
+
+:::
+[Volver a servicios](servicios.qmd){.btn-main}

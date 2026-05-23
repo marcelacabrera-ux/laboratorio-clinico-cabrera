@@ -1,0 +1,72 @@
+---
+title: "Nosotros"
+---
+
+## Comprometidos con tu salud y bienestar
+
+Laboratorio Clínico Cabrera es una institución dedicada a brindar servicios de diagnóstico clínico confiables, oportunos y de alta calidad. Contamos con sedes en **Catamayo** y **Catacocha**, ofreciendo los mismos servicios y estándares de atención para garantizar una experiencia profesional y cercana a nuestros pacientes.
+
+Nuestro compromiso es proporcionar resultados precisos que contribuyan a la prevención, diagnóstico y seguimiento de la salud de la comunidad.
+
+::: {.cards}
+
+::: {.card}
+
+## Nuestra misión
+
+Brindar servicios de diagnóstico clínico con calidad, precisión y responsabilidad, apoyados en personal capacitado y tecnología adecuada, contribuyendo al bienestar y la salud de nuestros pacientes.
+
+:::
+
+::: {.card}
+
+## Nuestra visión
+
+Ser un laboratorio clínico reconocido por su confiabilidad, innovación y excelencia en atención, fortaleciendo nuestra presencia y servicio en la región.
+
+:::
+
+:::
+
+## Nuestros valores
+
+::: {.service-grid}
+
+::: {.service-card}
+### 🤝 Confianza
+Resultados confiables y manejo responsable de la información.
+:::
+
+::: {.service-card}
+### 🏅 Calidad
+Compromiso con procesos y estándares de excelencia.
+:::
+
+::: {.service-card}
+### Responsabilidad
+Atención ética y profesional hacia nuestros pacientes.
+:::
+
+::: {.service-card}
+### 🎯 Compromiso
+Trabajamos para contribuir a la salud y bienestar de la comunidad.
+:::
+
+::: {.service-card}
+### Confidencialidad
+Protección y manejo seguro de la información clínica.
+:::
+
+::: {.service-card}
+### 🩺 Atención humana
+Trato respetuoso y cercano para cada paciente.
+:::
+
+:::
+
+## Nuestras sedes
+
+📍 Catamayo  
+📍 Catacocha  
+
+Con la misma calidad de servicio, personal capacitado y atención profesional.

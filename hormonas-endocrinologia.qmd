@@ -1,0 +1,46 @@
+---
+title: "Hormonas y endocrinología"
+format: html
+editor: visual
+---
+
+Ensayos disponibles:
+
+::: {.service-grid}
+
+::: {.service-card}
+
+### Función tiroidea
+
+- TSH 
+- T4 libre 
+- T3 libre 
+- T4 total 
+- T3 total
+
+:::
+
+::: {.service-card}
+### Hormonas reproductivas
+
+- FSH 
+- LH 
+- Estradiol 
+- Progesterona 
+- Testosterona 
+- Prolactina
+
+:::
+
+::: {.service-card}
+### Función suprarrenal y metabolismo
+
+- Cortisol 
+- Aldosterona 
+- ACTH 
+- Insulina
+
+:::
+
+:::
+[Volver a servicios](servicios.qmd){.btn-main}

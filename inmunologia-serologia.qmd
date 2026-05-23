@@ -1,0 +1,43 @@
+---
+title: "Inmunología y Serología"
+format: html
+editor: visual
+---
+
+Ensayos disponibles:
+
+::: {.service-grid}
+
+::: {.service-card}
+### Marcadores inflamatorios y autoinmunidad
+
+- ASTO cuantitativo 
+- PCR cuantitativo 
+- FR cuantitativo 
+- Aglutinaciones febriles
+
+:::
+
+::: {.service-card}
+### Enfermedades infecciosas
+
+- VDRL 
+- Prueba rápida VIH 
+- Hepatitis B 
+- Hepatitis C 
+- Toxoplasma IgG e IgM 
+- Rubéola IgG e IgM 
+- Citomegalovirus IgG e IgM
+
+:::
+
+::: {.service-card}
+### Pruebas especiales
+
+- Prueba de embarazo
+
+:::
+
+:::
+
+[Volver a servicios](servicios.qmd){.btn-main}

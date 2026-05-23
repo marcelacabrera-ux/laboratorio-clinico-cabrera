@@ -1,0 +1,18 @@
+---
+title: "Toxicología"
+format: html
+editor: visual
+---
+
+Ensayos disponibles:
+
+::: {.service-grid}
+
+::: {.service-card}
+
+- Panel de drogas de abuso
+
+:::
+
+:::
+[Volver a servicios](servicios.qmd){.btn-main}

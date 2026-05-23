@@ -1,0 +1,44 @@
+---
+title: "Hematología y coagulación"
+format: html
+editor: visual
+---
+
+Ensayos disponibles:
+
+::: {.service-grid}
+
+::: {.service-card}
+### Hematología general
+
+- Hemograma completo
+- Recuento de plaquetas
+- Velocidad de sedimentación globular (VSG)
+- Reticulocitos
+- Frotis sanguíneo
+- Grupo sanguíneo
+
+:::
+
+::: {.service-card}
+### Coagulación
+
+- Tiempo de sangría
+- Tiempo de coagulación
+- Tiempo de protrombina (TP)
+- Tiempo de tromboplastina parcial (TTP)
+- Fibrinógeno
+- Dímero D
+
+:::
+
+::: {.service-card}
+### Parasitología sanguínea
+
+- Plasmodium (Gota gruesa)
+
+:::
+
+:::
+
+[Volver a servicios](servicios.qmd){.btn-main}

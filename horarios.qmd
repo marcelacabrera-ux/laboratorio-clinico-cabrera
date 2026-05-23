@@ -1,0 +1,9 @@
+---
+title: "Horarios de atención"
+---
+
+
+| Sede | Lunes a viernes | Sábado | Domingo |
+|---|---:|---:|---:|
+| Catamayo | 07h00–17h00 | 07h00–12h00 | Cerrado |
+| Catacocha | 07h00–17h00 | 07h00–12h00 | Cerrado |

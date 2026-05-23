@@ -1,0 +1,25 @@
+---
+title: "Perfiles clínicos"
+format: html
+editor: visual
+---
+
+
+
+Ensayos disponibles:
+
+• TSH
+• T4 libre
+• T3 libre
+• T4 total
+• T3 total
+• FSH
+• LH
+• Estradiol
+• Progesterona
+• Testosterona
+• Prolactina
+• Cortisol
+• Aldosterona
+• ACTH
+• Insulina

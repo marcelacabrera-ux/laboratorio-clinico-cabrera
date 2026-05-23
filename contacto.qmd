@@ -1,0 +1,26 @@
+---
+title: "Contacto"
+---
+
+
+Comunícate con la sede más cercana.
+
+::: {.cards}
+
+::: {.card}
+## Catamayo
+
+📞 WhatsApp: [0997383556](https://wa.me/593997383556?text=Hola,%20quisiera%20información%20sobre%20los%20servicios%20del%20Laboratorio%20Clínico%20Cabrera) 
+
+📍 Dirección: Eugenio Espejo entre Av. Catamayo y 24 de Mayo  
+:::
+
+::: {.card}
+## Catacocha
+
+📞 WhatsApp: +593 XXX XXX XXX  
+
+📍 Dirección: Vía a Loja y pasaje sin nombre (Frente al Hospital Básico Guido Alfonso Díaz Jumbo) 
+:::
+
+:::

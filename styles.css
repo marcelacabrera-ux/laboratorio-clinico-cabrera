@@ -16,7 +16,7 @@ body {
 .hero {
   min-height: 650px;
   background:
-    linear-gradient(90deg, rgba(43,0,82,0.96), rgba(90,24,154,0.70), rgba(255,255,255,0.05)),
+    linear-gradient(90deg, rgba(43,0,82,0.85), rgba(90,24,154,0.70), rgba(255,255,255,0.05)),
     url("laboratorio.png");
   background-size: cover;
   background-position: center;
@@ -241,4 +241,29 @@ li {
 
 .nav-footer{
    border-top:4px solid #7B2CBF;
+   
+@media (max-width: 768px){
+
+  .hero{
+    min-height: 520px;
+    background:
+      linear-gradient(180deg, rgba(43,0,82,0.85), rgba(90,24,154,0.55)),
+      url("laboratorio_mobile.png");
+    background-size: cover;
+    background-position: center;
+    padding: 40px 25px;
+  }
+
+  .hero h1{
+    font-size: 42px;
+    line-height: 1.1;
+  }
+
+  .hero h2{
+    font-size: 24px;
+  }
+
+  .hero p{
+    font-size: 18px;
+  }
 }

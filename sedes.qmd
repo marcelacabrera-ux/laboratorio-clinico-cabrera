@@ -28,8 +28,8 @@ title: "Sedes"
 
 🕒 Horario: colocar horario
 
-📞 WhatsApp: colocar número
+📞 WhatsApp: [0997383556](https://wa.me/593997383556?text=Hola,%20quisiera%20información%20sobre%20los%20servicios%20del%20Laboratorio%20Clínico%20Cabrera){target="_blank"}
 
-[Cómo llegar](#){.btn-main}
+[Cómo llegar](https://maps.app.goo.gl/4TdctMKvomANwWdu8?g_st=aw){.btn-main}
 :::
 :::::
